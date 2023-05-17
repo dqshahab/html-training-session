@@ -1,5 +1,5 @@
 # html-training-session
-Learning HTML, all HTML files of this training will be uploaded here.
+Learning HTML, all HTML files of this training will be uploaded here
 
 # Table of Contents
 
