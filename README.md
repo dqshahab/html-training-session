@@ -44,4 +44,9 @@ Learning HTML, all HTML files of this training will be uploaded here
     <td>Activity-7</td>
     <td>Title for Web Documents</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>Activity-8</td>
+    <td>Internal Style Sheet</td>
+  </tr>
 </table>
