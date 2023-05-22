@@ -89,4 +89,9 @@ Learning HTML, all HTML files of this training will be uploaded here
     <td>Activity-16</td>
     <td>Paragraphs in HTML</td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td>Activity-17</td>
+    <td>HR and BR in HTML</td>
+  </tr>
 </table>
