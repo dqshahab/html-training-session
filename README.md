@@ -94,4 +94,9 @@ Learning HTML, all HTML files of this training will be uploaded here
     <td>Activity-17</td>
     <td>HR and BR in HTML</td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td>Activity-18</td>
+    <td>Div tag in HTML</td>
+  </tr>
 </table>
